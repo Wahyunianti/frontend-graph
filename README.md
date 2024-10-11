@@ -2,7 +2,8 @@
 
 ## Preview
 
-<img width="1056" alt="Screen Shot 2024-10-08 at 18 01 52" src="https://github.com/user-attachments/assets/5035141c-dfef-41d0-bc69-b730700eb861">
+<img width="1666" alt="Screen Shot 2024-10-11 at 23 34 37" src="https://github.com/user-attachments/assets/12cf1b42-91de-4c9b-8c70-fc6e3b9316b0">
+
 
 ## Tech
 - HTML 5
